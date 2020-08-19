@@ -3,3 +3,4 @@ requests
 csv
 io
 sys
+mysql.connector
